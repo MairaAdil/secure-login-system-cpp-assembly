@@ -1,7 +1,7 @@
-# 🔐 Secure Login System — C++ & x86 Assembly
+
 
 <p align="center">
-  <h1 align="center">Secure Login System — C++ & x86 Assembly</h1>
+  <h1 align="center">🔐Secure Login System — C++ & x86 Assembly</h1>
   <p align="center">
     <strong>A 32-bit C++ Authentication System Powered by Inline x86 Assembly</strong>
   </p>
